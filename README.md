@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <h3 align="center">RANDOM USER GENERATOR</h3>
+  <h3 align="center">RANDOM USER GENERATOR </h3>
 
   <p align="center">
     This is a react application for generating random user developed using the  <a href="https://randomuser.me/">Random User Generator</a> API
