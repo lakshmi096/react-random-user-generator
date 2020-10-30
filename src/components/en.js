@@ -6,5 +6,5 @@ export const UserTitles = {
     phone: "My phone number is",
     password: "My password is",
     welcomeTitle: "Welcome to",
-    welcomeBody: "Random User generator"
+    welcomeBody: "Random User Generator"
 }
